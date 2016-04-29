@@ -1,4 +1,4 @@
-# Devel::Trace
+# Devel::Trace  [![Build Status](https://travis-ci.org/Altai-man/perl6-Devel-Trace.svg?branch=master)](https://travis-ci.org/Altai-man/perl6-Devel-Trace)
 
 This is a Perl 6 port of Perl's Devel::Trace.
 

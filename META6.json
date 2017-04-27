@@ -1,6 +1,7 @@
 {
     "perl"        : "6.*",
     "name"        : "Devel::Trace",
+    "license"     : "Artistic-2.0",
     "version"     : "0.1",
     "tags"        : "Devel",
     "description" : "DEPRECATED Perl6 code tracer.",
